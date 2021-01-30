@@ -14,3 +14,10 @@ This repo contains Homebrew formulas for:
   ```bash
   brew install jsontypedef/jsontypedef/jtd-codegen
   ```
+
+* [`jtd-infer`](https://github.com/jsontypedef/json-typedef-infer), a tool that
+  generates schemas from example data. Install it by running:
+
+  ```bash
+  brew install jsontypedef/jsontypedef/jtd-infer
+  ```
