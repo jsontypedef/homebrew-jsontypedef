@@ -21,3 +21,17 @@ This repo contains Homebrew formulas for:
   ```bash
   brew install jsontypedef/jsontypedef/jtd-infer
   ```
+
+* [`jtd-fuzz`](https://github.com/jsontypedef/json-typedef-fuzz), a tool that
+  generates example data from schemas. Install it by running:
+
+  ```bash
+  brew install jsontypedef/jsontypedef/jtd-fuzz
+  ```
+
+* [`jtd-validate`](https://github.com/jsontypedef/json-typedef-validate), a tool
+  that validates JSON data using JSON Type Definition. Install it by running:
+
+  ```bash
+  brew install jsontypedef/jsontypedef/jtd-validate
+  ```
