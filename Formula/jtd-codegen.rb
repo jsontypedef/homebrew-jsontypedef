@@ -1,8 +1,8 @@
 class JtdCodegen < Formula
   homepage "https://github.com/jsontypedef/json-typedef-codegen"
-  url "https://github.com/jsontypedef/json-typedef-codegen/archive/v0.2.0.tar.gz"
+  url "https://github.com/jsontypedef/json-typedef-codegen/archive/v0.3.0.tar.gz"
   head "https://github.com/jsontypedef/json-typedef-codegen.git"
-  sha256 "c96d4b2ee8dcd509bb3fc807a7443090acc485678bbaadb77968079bae1418dd"
+  sha256 "1d7bbf2bd55913b685224188364f0bea68ae34e158374faf5068626c376b4280"
 
   depends_on "rust" => :build
 
